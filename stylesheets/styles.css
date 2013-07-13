@@ -769,13 +769,14 @@ dt {
 #header nav li.name {
   float: left;
   margin-left: 20px;
+  font-size: 14pt;
 }
 #header nav li.downloads {
   float: right;
   margin-left: 6px;
 }
 #header nav li.title {
-  float: right;
+  float: right;
   margin-right: 10px;
   font-size: 11px;
 }
